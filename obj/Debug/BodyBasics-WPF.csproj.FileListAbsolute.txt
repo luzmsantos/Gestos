@@ -1,0 +1,47 @@
+C:\Users\MCC1\Documents\BodyBasics1-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\MainWindow.baml
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\Window1.baml
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\Window1.g.cs
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\App.g.cs
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\MCC1\Documents\BodyBasics1-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\MCC1\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\MCC1\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\MCC1\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\MCC1\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\MCC1\Documents\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\Window1.baml
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\Window1.g.cs
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\MCC1\Documents\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.exe
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\MainWindow.baml
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\Window1.baml
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\MainWindow.g.cs
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\Window1.g.cs
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\App.g.cs
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
