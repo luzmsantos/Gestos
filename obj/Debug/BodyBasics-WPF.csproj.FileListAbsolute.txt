@@ -45,3 +45,6 @@ C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WP
 C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.g.resources
 C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
 C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\Documentos\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.exe
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.pdb

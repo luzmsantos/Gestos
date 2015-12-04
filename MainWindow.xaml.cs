@@ -659,11 +659,4 @@ namespace Microsoft.Samples.Kinect.BodyBasics
         
   
     }
-  
-
-
-
-
-    
-
 }
