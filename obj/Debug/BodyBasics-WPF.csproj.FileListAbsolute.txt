@@ -48,3 +48,17 @@ C:\Users\MCC1\Documents\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WP
 D:\Documentos\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
 D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.exe
 D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.pdb
+D:\Documentos\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\Documentos\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\Documentos\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\Documentos\KINECT BODY\Proyecto body avance\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\MainWindow.baml
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\Window1.baml
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\MainWindow.g.cs
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\Window1.g.cs
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\App.g.cs
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.g.resources
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\Documentos\KINECT BODY\Proyecto body avance\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
